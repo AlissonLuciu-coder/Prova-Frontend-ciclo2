@@ -1,0 +1,132 @@
+.btn-outline-light {
+    width: 200px;
+    --bs-btn-color: #f8f9fa;
+    --bs-btn-border-color: #f8f9fa;
+    --bs-btn-hover-color: #000;
+    --bs-btn-hover-bg: #f8f9fa;
+    --bs-btn-hover-border-color: #f8f9fa;
+    --bs-btn-focus-shadow-rgb: 248, 249, 250;
+    --bs-btn-active-color: #000;
+    --bs-btn-active-bg: #f8f9fa;
+    --bs-btn-active-border-color: #f8f9fa;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #f8f9fa;
+    --bs-btn-disabled-bg: transparent;
+    --bs-btn-disabled-border-color: #f8f9fa;
+    --bs-gradient: none;
+}
+
+
+
+.btn-outline-success {
+    --bs-btn-color: #1D545A;
+    --bs-btn-border-color: #ffffff00;
+    --bs-btn-hover-color: #ffffff00;
+    --bs-btn-hover-bg: #1D545A;
+    --bs-btn-hover-border-color: #1D545A;
+    --bs-btn-focus-shadow-rgb: 25, 135, 84;
+    --bs-btn-active-color: #ffffff00;
+    --bs-btn-active-bg: #1D545A;
+    --bs-btn-active-border-color: #1D545A;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #1D545A;
+    --bs-btn-disabled-bg: transparent;
+    --bs-btn-disabled-border-color: #1D545A;
+    --bs-gradient: none;
+}
+
+.barra-verde {
+    background-color: #3BB6B1;
+}
+
+.icones {
+    width: 50px;
+    height: 50x;
+}
+
+.fotos {
+    width: 475px;
+    height: 200px;
+}
+
+
+.btn-primary {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #7564FE;
+    --bs-btn-border-color: #7564FE;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #7564FE;
+    --bs-btn-hover-border-color: #7564FE;
+    --bs-btn-focus-shadow-rgb: 49, 132, 253;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #7564FE;
+    --bs-btn-active-border-color: #7564FE;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #7564FE;
+    --bs-btn-disabled-border-color: #7564FE;
+}
+
+
+.card-title {
+
+    color: #144D54;
+}
+
+
+.btn-outline-dark {
+
+    --bs-btn-color: #7564FE;
+    --bs-btn-border-color: #7564FE;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #7564FE;
+    --bs-btn-hover-border-color: #7564FE;
+    --bs-btn-focus-shadow-rgb: 33, 37, 41;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #7564FE;
+    --bs-btn-active-border-color: #7564FE;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #7564FE;
+    --bs-btn-disabled-bg: transparent;
+    --bs-btn-disabled-border-color: #7564FE;
+    --bs-gradient: none;
+}
+
+
+.gato {
+    width: 475px;
+    height: 130px;
+}
+
+
+
+.rodape {
+    padding-top: 10px;
+    font-size: 19px;
+    color: white;
+}
+
+.fundo-cinza {
+    background-color: #EEEEEE;
+}
+
+.carda {
+    background-color: #EEEEEE;
+}
+
+.caixa-gatinho {
+    background-color: #EEEEEE;
+}
+
+.textinho {
+    background-color: #EEEEEE;
+}
+
+.caixa-barra {
+    background-color: #EEEEEE;
+}
+
+.barra-carregamento {
+    margin: bottom 15px;
+    background-color: white;
+}
